@@ -40,3 +40,4 @@ Jsuser.greetingtwo = function(){
 }
 console.log(Jsuser.greeting())  //hello js user
 console.log(Jsuser.greetingtwo()) //hello js user, Aditya
+
