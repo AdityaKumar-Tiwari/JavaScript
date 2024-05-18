@@ -1,2 +1,2 @@
 # JavaScript
-For  learning purposes 
+For learning purposes 
